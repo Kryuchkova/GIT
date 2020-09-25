@@ -64,4 +64,6 @@ Last things last
 By the grace of fire and flames
 You're the face of the future, the blood in my veins, oh-ooh
 The blood in my veins, oh-ooh
+2.2 Create a branch ‘feature’ and make two commits to it.
+2.3 Merge ‘feature’ branch to ‘master’.
 
